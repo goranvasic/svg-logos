@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon / product-logo / 32x32px / beats / color</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0001 20.9999 0.0001 20.9999 13.5541 0 13.5541"></polygon>
+        <polygon id="path-3" points="0.0001 0.6235 25 0.6235 25 17 0.0001 17"></polygon>
+        <polygon id="path-5" points="0 0.0001 20.3379 0.0001 20.3379 8.0001 0 8.0001"></polygon>
+    </defs>
+    <g id="icon-/-product-logo-/-32x32px-/-beats-/-color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10" transform="translate(3.000000, 0.000000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M20.3379,13.5541 C20.7589,12.4491 20.9999,11.2531 20.9999,10.0001 C20.9999,4.4771 16.5229,0.0001 10.9999,0.0001 L-0.0001,0.0001 L-0.0001,12.0001 L14.9999,12.0001 C16.9649,12.0001 18.7919,12.5751 20.3379,13.5541" id="Fill-1" fill="#0077CC" mask="url(#mask-2)"></path>
+            </g>
+            <g id="Group-6" transform="translate(0.000000, 15.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <path d="M22.7021,0.6235 C20.6001,4.9795 16.1521,8.0005 11.0001,8.0005 L0.0001,8.0005 L0.0001,17.0005 L15.0001,17.0005 C20.5221,17.0005 25.0001,12.5225 25.0001,7.0005 C25.0001,4.5765 24.1371,2.3545 22.7021,0.6235" id="Fill-4" fill="#00BFB3" mask="url(#mask-4)"></path>
+            </g>
+            <g id="Group-9" transform="translate(0.000000, 12.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="Clip-8"></g>
+                <path d="M20.3379,1.5541 C18.7919,0.5751 16.9649,0.0001 14.9999,0.0001 L-0.0001,0.0001 L-0.0001,8.0001 L10.9999,8.0001 C15.2699,8.0001 18.9029,5.3201 20.3379,1.5541" id="Fill-7" fill="#343741" mask="url(#mask-6)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
