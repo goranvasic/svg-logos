@@ -1,36 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 140">
-<g fill="#F7A41D">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="297.075px" height="105px" viewBox="0 97.5 297.075 105" enable-background="new 0 97.5 297.075 105" xml:space="preserve">
+<g>
 	<g>
-		<polygon points="46,22 28,44 19,30"/>
-		<polygon points="46,22 33,33 28,44 22,44 22,95 31,95 20,100 12,117 0,117 0,22" shape-rendering="crispEdges"/>
-		<polygon points="31,95 12,117 4,106"/>
+		<polygon fill="#F7A41D" points="34.5,114 21,130.5 14.25,120 		"/>
+		<polygon shape-rendering="crispEdges" fill="#F7A41D" points="34.5,114 24.75,122.25 21,130.5 16.5,130.5 16.5,168.75 
+			23.25,168.75 15,172.5 9,185.25 0,185.25 0,114 		"/>
+		<polygon fill="#F7A41D" points="23.25,168.75 9,185.25 3,177 		"/>
 	</g>
 	<g>
-		<polygon points="56,22 62,36 37,44"/>
-		<polygon points="56,22 111,22 111,44 37,44 56,32" shape-rendering="crispEdges"/>
-		<polygon points="116,95 97,117 90,104"/>
-		<polygon points="116,95 100,104 97,117 42,117 42,95" shape-rendering="crispEdges"/>
-		<polygon points="150,0 52,117 3,140 101,22"/>
+		<polygon fill="#F7A41D" points="42,114 46.5,124.5 27.75,130.5 		"/>
+		<polygon shape-rendering="crispEdges" fill="#F7A41D" points="42,114 83.25,114 83.25,130.5 27.75,130.5 42,121.5 		"/>
+		<polygon fill="#F7A41D" points="87,168.75 72.75,185.25 67.5,175.5 		"/>
+		<polygon shape-rendering="crispEdges" fill="#F7A41D" points="87,168.75 75,175.5 72.75,185.25 31.5,185.25 31.5,168.75 		"/>
+		<polygon fill="#F7A41D" points="112.5,97.5 39,185.25 2.25,202.5 75.75,114 		"/>
 	</g>
 	<g>
-		<polygon points="141,22 140,40 122,45"/>
-		<polygon points="153,22 153,117 106,117 120,105 125,95 131,95 131,45 122,45 132,36 141,22" shape-rendering="crispEdges"/>
-		<polygon points="125,95 130,110 106,117"/>
+		<polygon fill="#F7A41D" points="105.75,114 105,127.5 91.5,131.25 		"/>
+		<polygon shape-rendering="crispEdges" fill="#F7A41D" points="114.75,114 114.75,185.25 79.5,185.25 90,176.25 93.75,168.75 
+			98.25,168.75 98.25,131.25 91.5,131.25 99,124.5 105.75,114 		"/>
+		<polygon fill="#F7A41D" points="93.75,168.75 97.5,180 79.5,185.25 		"/>
 	</g>
 </g>
-<g fill="#FFF">
+<g>
 	<g>
-		<polygon points="260,22 260,37 229,40 177,40 177,22" shape-rendering="crispEdges" />
-		<polygon points="260,37 207,99 207,103 176,103 229,40 229,37"/>
-		<polygon points="261,99 261,117 176,117 176,103 206,99" shape-rendering="crispEdges" />
+		<polygon shape-rendering="crispEdges" fill="#FFFFFF" points="195,114 195,125.25 171.75,127.5 132.75,127.5 132.75,114 		"/>
+		<polygon fill="#FFFFFF" points="195,125.25 155.25,171.75 155.25,174.75 132,174.75 171.75,127.5 171.75,125.25 		"/>
+		<polygon shape-rendering="crispEdges" fill="#FFFFFF" points="195.75,171.75 195.75,185.25 132,185.25 132,174.75 154.5,171.75 		
+			"/>
 	</g>
-	<rect x="272" y="22" shape-rendering="crispEdges" width="22" height="95"/>
+	<rect x="204" y="114" shape-rendering="crispEdges" fill="#FFFFFF" width="16.5" height="71.25"/>
 	<g>
-		<polygon points="394,67 394,106 376,106 376,81 360,70 346,67" shape-rendering="crispEdges"/>
-		<polygon points="360,68 376,81 346,67"/>
-		<path d="M394,106c-10.2,7.3-24,12-37.7,12c-29,0-51.1-20.8-51.1-48.3c0-27.3,22.5-48.1,52-48.1
-			c14.3,0,29.2,5.5,38.9,14l-13,15c-7.1-6.3-16.8-10-25.9-10c-17,0-30.2,12.9-30.2,29.5c0,16.8,13.3,29.6,30.3,29.6
-			c5.7,0,12.8-2.3,19-5.5L394,106z"/>
+		<polygon shape-rendering="crispEdges" fill="#FFFFFF" points="295.5,147.75 295.5,177 282,177 282,158.25 270,150 259.5,147.75 		
+			"/>
+		<polygon fill="#FFFFFF" points="270,148.5 282,158.25 259.5,147.75 		"/>
+		<path fill="#FFFFFF" d="M295.5,177c-7.65,5.475-18,9-28.275,9c-21.75,0-38.324-15.6-38.324-36.225
+			c0-20.475,16.875-36.075,39-36.075c10.725,0,21.899,4.125,29.175,10.5l-9.75,11.25c-5.325-4.725-12.601-7.5-19.425-7.5
+			c-12.75,0-22.65,9.675-22.65,22.125c0,12.6,9.975,22.2,22.725,22.2c4.275,0,9.601-1.726,14.25-4.125L295.5,177z"/>
 	</g>
 </g>
 </svg>
