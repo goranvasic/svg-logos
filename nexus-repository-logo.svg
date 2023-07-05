@@ -1,28 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #00bd6c;
-      }
-
-      .cls-2 {
-        fill: #00bb6c;
-      }
-
-      .cls-3 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <g id="Sonatype_Logo_Favicon" data-name="Sonatype Logo Favicon">
-    <polygon class="cls-1" points="55.82 27.51 55.82 34.24 40.05 43.47 36.05 45.81 36.04 45.81 30.31 49.16 24.57 45.8 20.56 43.46 4.82 34.24 4.82 27.53 10.71 30.98 10.71 31.02 26.26 40.11 30.28 42.46 30.31 42.48 30.34 42.46 34.34 40.12 49.91 31.02 49.91 30.96 55.82 27.51"/>
-  </g>
-  <g id="Sonatype_Logo_Favicon-2" data-name="Sonatype Logo Favicon">
-    <polygon class="cls-3" points="55.82 38.34 55.82 45.06 40.05 54.3 36.05 56.64 36.04 56.64 30.31 59.99 24.57 56.62 20.56 54.28 4.82 45.06 4.82 38.35 10.71 41.8 10.71 41.85 26.26 50.93 30.28 53.29 30.31 53.3 30.34 53.29 34.34 50.95 49.91 41.85 49.91 41.79 55.82 38.34"/>
-  </g>
-  <g id="Sonatype_Logo_Favicon-3" data-name="Sonatype Logo Favicon">
-    <path class="cls-3" d="m49.91,9.68v10.52l-15.57,9.1-4.01,2.34h-.03s-.03,0-.03,0l-4.02-2.36-15.55-9.08v-10.52h-5.89v13.73l15.74,9.22,4.01,2.34,5.74,3.36,5.73-3.35,4.01-2.34,15.77-9.23v-13.73h-5.91Z"/>
-  </g>
-  <path class="cls-2" d="m31.25,22.07v-11.01c.72-1.07,2.62-1.9,4.05-1.9.51,0,.88.04,1.19.1v-4.28c-2.04,0-4.05,1.21-5.24,2.66v-2.24h-4.32v16.67h4.32Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 51 55" style="enable-background:new 0 0 51 55;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00BD6C;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#00BB6C;}
+</style>
+<g id="Sonatype_Logo_Favicon">
+	<polygon class="st0" points="51,22.5 51,29.3 35.2,38.5 31.2,40.8 31.2,40.8 25.5,44.2 19.8,40.8 15.8,38.5 0,29.3 0,22.6 5.9,26 
+		5.9,26 21.5,35.1 25.5,37.5 25.5,37.5 25.5,37.5 29.5,35.1 45.1,26 45.1,26 	"/>
+</g>
+<g id="Sonatype_Logo_Favicon-2">
+	<polygon class="st1" points="51,33.4 51,40.1 35.2,49.3 31.2,51.7 31.2,51.7 25.5,55 19.8,51.6 15.8,49.3 0,40.1 0,33.4 5.9,36.8 
+		5.9,36.9 21.5,46 25.5,48.3 25.5,48.3 25.5,48.3 29.5,46 45.1,36.9 45.1,36.8 	"/>
+</g>
+<g id="Sonatype_Logo_Favicon-3">
+	<path class="st1" d="M45.1,4.7v10.5l-15.6,9.1l-4,2.3h0h0l-4-2.4L5.9,15.2V4.7H0v13.7l15.7,9.2l4,2.3l5.7,3.4l5.7-3.3l4-2.3
+		L51,18.4V4.7L45.1,4.7L45.1,4.7z"/>
+</g>
+<path class="st2" d="M26.4,17.1v-11c0.7-1.1,2.6-1.9,4-1.9c0.5,0,0.9,0,1.2,0.1V0c-2,0-4,1.2-5.2,2.7V0.4h-4.3v16.7
+	C22.1,17.1,26.4,17.1,26.4,17.1z"/>
 </svg>
